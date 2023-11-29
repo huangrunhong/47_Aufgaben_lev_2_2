@@ -1,0 +1,18 @@
+nav {
+  padding: 2rem 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav h1 {
+  color: #0d4625;
+  font-size: 1.5rem;
+}
+nav ul {
+  display: flex;
+  gap: 2rem;
+}
+nav ul a {
+  font-size: 1rem;
+  color: #0d4625;
+}/*# sourceMappingURL=Nav.css.map */

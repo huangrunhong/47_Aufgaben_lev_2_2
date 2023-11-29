@@ -1,0 +1,21 @@
+button {
+  width: fit-content;
+  padding: 0.75rem 1rem;
+  border-radius: 0.625rem;
+  border: 3px solid #6fcf97;
+  background-color: white;
+  font-size: 1rem;
+  font-weight: 900;
+
+  a {
+    text-decoration: none;
+    color: #219653;
+  }
+}
+
+button:hover {
+  background-color: #219653;
+  color: white;
+  border: 3px solid #219653;
+  box-shadow: 0 2px 4px #012711;
+}

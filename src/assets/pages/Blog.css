@@ -1,0 +1,23 @@
+:root {
+  font-family: "Roboto";
+  font-weight: 900;
+}
+:root .blogList {
+  padding-inline: 10rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4rem;
+}
+:root .blogList div {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+:root .blogList div img {
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+:root .blogList div p {
+  color: #0d4625;
+}/*# sourceMappingURL=Blog.css.map */
